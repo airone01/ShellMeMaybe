@@ -47,7 +47,7 @@ A comprehensive testing framework for Minishell implementations, using external 
 
 ## Installation
 
-Grab a package from [the releases page](https://github.com/airone01/ShellMeMaybe/releases, or
+Grab a package from [the releases page](https://github.com/airone01/ShellMeMaybe/releases), or
 
 ```bash
 # Clone the repository
