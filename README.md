@@ -1,4 +1,39 @@
-# Minishell Tester with External Test Files
+<h1 align="center">
+  ShellMeMaybe
+</h2>
+
+<h4 align="center">
+  <a href="https://profile.intra.42.fr/users/elagouch"><img alt="School 42 badge" src="https://img.shields.io/badge/-elagouch-020617?style=flat-square&labelColor=020617&color=5a45fe&logo=42"></a>
+  <img alt="MIT" src="https://img.shields.io/badge/License-MIT-ef00c7?style=flat-square&logo=creativecommons&logoColor=fff&labelColor=020617">
+  <img alt="Made with Go" src="https://img.shields.io/badge/Made_with-Go-ff2b89?style=flat-square&logo=go&logoColor=fff&labelColor=020617">
+  <img alt="Release version" src="https://img.shields.io/github/v/release/airone01/shellmemaybe?style=flat-square&logo=nixos&logoColor=fff&label=Release&labelColor=020617&color=ff8059">
+  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/airone01/shellmemaybe?style=flat-square&logo=github&labelColor=020617&color=ffc248&label=Contributors">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/airone01/shellmemaybe?style=flat-square&logo=github&labelColor=020617&color=f9f871&label=Last%20commit">
+</h4>
+
+<div align="center">
+  A tester for minishell
+</div>
+
+---
+
+<div align="center"><p>
+
+[Features]: #features
+[Installation]: #installation
+[Usage]: #usage
+[Options]: #options
+[Test files]: #test-files
+
+**[<kbd> <br> Features <br> </kbd>][Features]**
+**[<kbd> <br> Installation <br> </kbd>][Installation]**
+**[<kbd> <br> Usage <br> </kbd>][Usage]**
+**[<kbd> <br> Options <br> </kbd>][Options]**
+**[<kbd> <br> Test files <br> </kbd>][Test files]**
+
+</p></div>
+
+---
 
 A comprehensive testing framework for Minishell implementations, using external test files for better organization and maintainability.
 
@@ -12,13 +47,15 @@ A comprehensive testing framework for Minishell implementations, using external 
 
 ## Installation
 
+Grab a package from [the releases page](https://github.com/airone01/ShellMeMaybe/releases, or
+
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/minishell-tester.git
-cd minishell-tester
+git clone https://github.com/airone01/shellmemaybe.git
+cd shellmemaybe
 
 # Build the tester
-make build
+make
 ```
 
 ## Usage
